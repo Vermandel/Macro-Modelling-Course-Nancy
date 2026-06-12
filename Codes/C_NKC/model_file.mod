@@ -1,4 +1,5 @@
 
+addpath('../A_functions')
 
 %----------------------------------------------------------------
 % 0. Housekeeping (close all graphic windows)
